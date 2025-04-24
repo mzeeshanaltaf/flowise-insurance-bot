@@ -1,0 +1,5 @@
+streamlit
+flowise
+streamlit-pdf-viewer
+email-validator
+captcha
